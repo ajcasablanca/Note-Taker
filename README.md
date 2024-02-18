@@ -4,7 +4,7 @@
 
 ## Description
 
-This application called Note Taker enables users that to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. And then deployed the entire application to Heroku.
+This is an app, called Note Taker,  that allows users to write, save and delete notes. 
 
 
 ## Table of Contents
@@ -53,14 +53,6 @@ Follow these steps to use the Note Taker application:
 6.To delete a note, click the delete button next to the note in the list on the left-hand side.
 
 7.Click the Write icon in the navigation bar to enter a new note title and text in the right-hand column.
-
-## Contributing
-
-none
-
-## Tests
-
-n/a
 
 
 ## License
